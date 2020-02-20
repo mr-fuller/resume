@@ -1,63 +1,49 @@
 ---
-title: "resume"
-output: html_document
+title: "Michael Fuller"
+address: "2105 Warren Street Apt E Toledo, OH 43620"
+output: 
+  pdf_document:
+geometry: margin=1in
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+options(tinytex.verbose = TRUE)
+
 ```
+\begin{center}
+2105 Warren Street Apt E Toledo, OH 43620 | 616-953-0307 | mrfuller460@gmail.com | mikerfuller.com | linkedin.com/in/michaelryanfuller | github.com/mr-fuller | public.tableau.com/profile/mikerfuller
+\end{center}
+
+## Relevant Experience
+##### Ohio GIS Conference Speaker, September 2018
+* Presented work on analyzing and visualizing vehicle probe data with PostGIS and R
+
+##### Toledo Metropolitan Area Council of Governments, Toledo, OH, Transportation Planner, May 2015-Present
+* Developed python script that saved weeks of staff time for regional crash analysis report
+* Developed ArcGIS Online app that saved $54,000 for a project with a budget of $22,000
+* Developed RShiny demographics dashboard website for an economic development group
+
+##### Toledo Fair Housing Center, Toledo, OH, Geography Intern, January-May 2015
+* Create GIS products and analyze data in support of investigations
+
+##### University of Toledo, Toledo, OH GIS Project, August-December 2014
+* Created GIS web application with neighborhood information and amenity locations for federal housing voucher holders in Toledo
+
+##### University of Toledo, Toledo, OH GIS Class Project, January-May 2014
+* Create 6 maps for Perrysburg Township related to zoning, population, and parcel values
 
 ## Education
-##### University of Toledo, Toledo, OH, Master of Arts in Geography Aug 2013-May 2015
+##### University of Toledo, Toledo, OH, Master of Arts in Geography, August 2013-May 2015
 * GPA 3.7
 * ABT
 
-##### Calvin College, Grand Rapids, MI, Bachelor of Science in Engineering May 2013
+##### Calvin College, Grand Rapids, MI, Bachelor of Science in Engineering, May 2013
 * Civil and Environmental Concentration
 * Math minor
 * Overall GPA 3.6
 
-##### Technical University of Berlin, Berlin, Germany July-August 2010
+##### Technical University of Berlin, Berlin, Germany, July-August 2010
 * Completed courses in Engineering and German language and culture
 
-## Work Experience
-
-##### Toledo Metropolitan Area Council of Governments, Toledo, OH, Transportation Planner May 2015-Present
-* Developed python script that saved weeks of staff time for regional crash analysis report
-* Developed ArcGIS Online app that saved $54,000 for a project with a budget of $22,000
-
-##### Toledo Fair Housing Center, Toledo, OH, Geography Intern January-May 2015
-* Create GIS products and analyze data in support of investigations
-
-##### University of Toledo, Toledo, OH GIS Project August-December 2014
-* Created GIS web application with neighborhood information and amenity locations for federal housing voucher holders in Toledo
-
-##### University of Toledo, Toledo, OH GIS Class Project January-May 2014
-* Create 6 maps for Perrysburg Township related to zoning, population, and parcel values
-
-##### Calvin College, Grand Rapids, MI, Senior Design Project September 2012-May 2013
-* Designed 60000 gallon fermentation system and its integration into an existing 15 MGD Bio-P removal process
-* Planned and executed experiment to customize and validate design approach
-
-##### Calvin College, Grand Rapids, MI, Research and DevelopmentMay 2012-July 2013
-* Evaluated point-of-use water filters for removal of fluoride, arsenic, and pesticides
-* Optimized testing procedures of water filtration module to reduce waste by 75%
 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
