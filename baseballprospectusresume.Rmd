@@ -1,0 +1,46 @@
+---
+title: "Michael Fuller"
+address: "2105 Warren Street Apt E Toledo, OH 43620"
+output: 
+  pdf_document:
+geometry: margin=1in
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(tinytex.verbose = TRUE)
+
+```
+\begin{center}
+2105 Warren Street Apt E Toledo, OH 43620 | 616-953-0307 | mrfuller460@gmail.com | mikerfuller.com | linkedin.com/in/michaelryanfuller | github.com/mr-fuller | public.tableau.com/profile/mikerfuller
+\end{center}
+
+## Relevant Experience
+##### Ohio GIS Conference Speaker, September 2018
+* Presented work on analyzing and visualizing vehicle probe data with PostGIS and R
+
+##### Toledo Metropolitan Area Council of Governments, Toledo, OH, Transportation Planner, May 2015-Present
+* Developed python script that saved weeks of staff time for regional crash analysis report
+* Developed ArcGIS Online app that saved $54,000 for a project with a budget of $22,000
+* Developed RShiny demographics dashboard website for an economic development group
+
+##### Toledo Fair Housing Center, Toledo, OH, Geography Intern, January-May 2015
+* Create GIS products and analyze data in support of investigations
+
+##### University of Toledo, Toledo, OH GIS Project, August-December 2014
+* Created GIS web application with neighborhood information and amenity locations for federal housing voucher holders in Toledo
+
+## Education
+##### University of Toledo, Toledo, OH, Master of Arts in Geography, August 2013-May 2015
+* GPA 3.7
+* ABT
+
+##### Calvin College, Grand Rapids, MI, Bachelor of Science in Engineering, May 2013
+* Civil and Environmental Concentration
+* Math minor
+* Overall GPA 3.6
+
+##### Technical University of Berlin, Berlin, Germany, July-August 2010
+* Completed courses in Engineering and German language and culture
+
+
+
