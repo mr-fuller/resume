@@ -27,7 +27,7 @@ options(tinytex.verbose = TRUE)
 * Create GIS products and analyze data in support of investigations
 
 ##### University of Toledo, Toledo, OH GIS Project, August-December 2014
-* Created GIS web application with neighborhood information and amenity locations for federal housing voucher holders in Toledo
+* Created web application with neighborhood information and amenity locations for federal housing voucher holders in Toledo
 
 ## Education
 ##### University of Toledo, Toledo, OH, Master of Arts in Geography, August 2013-May 2015
