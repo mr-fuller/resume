@@ -1,6 +1,6 @@
 ---
-title: "Michael Fuller"
-#address: "2105 Warren Street Apt E Toledo, OH 43620"
+title: "Mike Fuller"
+
 output: 
   pdf_document:
 geometry: margin=1in
@@ -11,7 +11,7 @@ options(tinytex.verbose = TRUE)
 
 ```
 \begin{center}
-822 Lime City Road Apt J Rossford, OH 43620 | 616-953-0307 | mrfuller460@gmail.com | mikerfuller.com | linkedin.com/in/michaelryanfuller | github.com/mr-fuller | public.tableau.com/profile/mikerfuller
+Toledo, OH | 616-953-0307 | mrfuller460@gmail.com | mikerfuller.com | linkedin.com/in/mfuller69 | github.com/mr-fuller | public.tableau.com/profile/mikerfuller | he/him
 \end{center}
 
 ## Relevant Experience
@@ -19,10 +19,12 @@ options(tinytex.verbose = TRUE)
 * Developed python script that saved weeks of staff time for regional crash analysis report
 * Developed ArcGIS Online app that saved $54,000 for a project with a budget of $22,000
 * Developed RShiny demographics dashboard website for an economic development group
-* Prepared maps and and analysis for Congestion Management Process (CMP) document
 * Developed python scripts to update files in ArcGIS Online with ArcGIS API for Python
-* Created and maintained organization web map gallery and open data site
+* Created and maintained organization web map gallery and open data site in ArcGIS Online
 * Provided demographic maps and analysis for major planning documents and ad hoc requests
+* Collaborated on RFP development, proposal evaluation, and contract selection for statewide ridesharing software
+* Develop ArcGIS Dashboard of demographic information as a resource for Justice40 initiative
+* Develop web apps to crowdsource public comments and data
 
 ##### Ohio GIS Conference Speaker, 2020
 * Presented on geocoding fundamentals
